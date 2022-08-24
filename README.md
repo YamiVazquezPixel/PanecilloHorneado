@@ -22,17 +22,13 @@ Here are some ideas to get you started:
 <li> JAVA</li>
 <li>PYTHON </li>
 <li>MySQL</li>
-<li>Docker</li>
+<li>C</li>
 <li>Linux</li>
 <li>GIT</li>
 <li>RPA Automation Anywhere</li>
 <h4><i>:fire: I also have knowledge of</i><h4>
 <li>JAVASCRIPT</li>
-<li>REACT</li>
-<li>NODE.JS</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>WordPress</li>
+
 
 
 <h4><i>:warning: Sometimes I do testing and that's why I learned </i> <h4>
