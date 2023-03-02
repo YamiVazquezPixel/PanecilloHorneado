@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 
 
-<h4><i>:warning: Sometimes I do testing and that's why I learned </i> <h4>
-<li>KATALON STUDIO</li>
-<li>SELENIUM</li>
-<li>PERFOMANCE TESTING JMETER</li>
-
 #
 <h5><u>I automate everything... </u><h5>
 
