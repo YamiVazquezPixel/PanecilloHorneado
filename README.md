@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Hi there :wave:, ✨I`m Yamila✨<h3>
-<h4> but you can call me Panecillo :sparkles: <h4>
+<h4> but you can call me Yami :sparkles: <h4>
 <h5> I like kittens :cat:, rainydays :zap: and <u>developing apps</u>
 <h5>:round_pushpin: Currently I'm living in Buenos Aires.<h5>
 <h4><i>:pushpin:Langguages and Tools:</i><h4>
